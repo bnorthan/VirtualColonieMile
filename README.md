@@ -10,7 +10,7 @@ EVENT DETAILS:
 
 Free to everyone! HMRRC member or non-member
 
-To participate, run a mile between July 12th and July 31st on any "fair" course (less than 10 feet elevation drop, but if you want to go up-hill, that's fine with us). 
+To participate, run a mile between July 12th and August 9th on any "fair" course (less than 20 feet elevation drop, but if you want to go up-hill, that's fine with us). 
 
 Submit your results [here](https://membercommunications-hmrrc.wildapricot.org/event-3906509) 
 
