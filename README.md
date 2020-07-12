@@ -6,7 +6,7 @@ Where: Capital Region
 
 EVENT DETAILS:
 
-2020 VIRTUAL COLONIE MILE
+[Click here for current Leaderboard](https://bnorthan.github.io/vcm/leaderboard)
 
 Free to everyone! HMRRC member or non-member
 
