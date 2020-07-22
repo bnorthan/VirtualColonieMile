@@ -3,7 +3,7 @@ print('hello')
 import numpy as np
 import pandas as pd
 
-data=pd.read_csv('results/2020-07-20 2020 VIRTUAL COLONIE MILE Hudson Mohawk Road Runners Club.csv')
+data=pd.read_csv('results/2020-07-22 2020 VIRTUAL COLONIE MILE Hudson Mohawk Road Runners Club.csv')
 
 def timeToSeconds(time):
     
