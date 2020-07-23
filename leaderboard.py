@@ -3,11 +3,11 @@ print('hello')
 import numpy as np
 import pandas as pd
 
-data=pd.read_csv('results/2020-07-22 2020 VIRTUAL COLONIE MILE Hudson Mohawk Road Runners Club.csv')
+data=pd.read_csv('results/2020-07-23 2020 VIRTUAL COLONIE MILE Hudson Mohawk Road Runners Club.csv')
 
 def timeToSeconds(time):
-    
-    temp=time.split(':')
+    temp=time.split('.') 
+    temp=temp[0].split(':')
     print(len(temp))
     try:
         if (len(temp)==2):
@@ -25,6 +25,8 @@ data=data.sort_values(by='seconds')
 data=data.drop('seconds',axis=1)
 
 data=data.reset_index(drop=True)
+
+data.index+=1
 
 print(data)
 
