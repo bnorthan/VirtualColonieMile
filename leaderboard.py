@@ -65,7 +65,9 @@ for age in age_cats:
     age_markdown+=temp.to_markdown()+'\n\n'
 '''
 temp=females[females.age_cat=='30_39']
-age_markdown=temp.to_markdown()    
+age_markdown=''
+age_markdown+='## Females'
+age_markdown+=temp.to_markdown()    
 
  
 out_file=open('age.md', "w")
