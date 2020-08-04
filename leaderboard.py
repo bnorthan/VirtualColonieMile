@@ -54,7 +54,7 @@ females=data[data.Gender=='f']
 males=data[data.Gender=='m']
 
 age_markdown='';
-
+'''
 for age in age_cats:
     age_markdown+='## Female '+age+'\n'
     temp=females[females.age_cat==age]
@@ -63,7 +63,11 @@ for age in age_cats:
     age_markdown+='## Male '+age+'\n'
     temp=males[males.age_cat==age]
     age_markdown+=temp.to_markdown()+'\n\n'
-    
+'''
+temp=females[females.age_cat=='30_39']
+age_markdown=temp.to_markdown()    
+
+ 
 out_file=open('age.md', "w")
 out_file.write(age_markdown)
 out_file.close()
