@@ -32,10 +32,10 @@
 
 ## Male 10_19  
 
-|    | First name   | Last name   | Gender   |   Age | City      | State    | Time    | Member   |   age_cat |
-|---:|:-------------|:------------|:---------|------:|:----------|:---------|:--------|:---------|----------:|
-| 10 | Evan         | O'Connor    | m        |    14 | SAND LAKE | New York | 5:57.11 | No       |     10_19 |
-| 42 | Oliver       | Hooper      | m        |    10 | Glenville | Ny       | 7:25    | Yes      |     10_19 |  
+|    | First name   | Last name   | Gender   |   Age | City      | State    | Time    | Member   |
+|---:|:-------------|:------------|:---------|------:|:----------|:---------|:--------|:---------|
+| 10 | Evan         | O'Connor    | m        |    14 | SAND LAKE | New York | 5:57.11 | No       |
+| 42 | Oliver       | Hooper      | m        |    10 | Glenville | Ny       | 7:25    | Yes      |  
 
 ## Female 20_29  
 
@@ -62,12 +62,12 @@
 
 ## Male 30_39  
 
-|    | First name   | Last name   | Gender   |   Age | City        | State   | Time   | Member   |   age_cat |
-|---:|:-------------|:------------|:---------|------:|:------------|:--------|:-------|:---------|----------:|
-|  1 | Alexander    | Perry       | m        |    31 | Albany      | NY      | 5:14   | Yes      |     30_39 |
-|  2 | Andrew       | Pavlou      | m        |    33 | Guilderland | NY      | 5:25   | No       |     30_39 |
-|  6 | Andrew       | Pavlou      | m        |    33 | Guilderland | NY      | 5:46   | No       |     30_39 |
-| 75 | Thomas       | Bennett     | m        |    35 | Altamont    | NY      | 9:24   | Yes      |     30_39 |  
+|    | First name   | Last name   | Gender   |   Age | City        | State   | Time   | Member   |
+|---:|:-------------|:------------|:---------|------:|:------------|:--------|:-------|:---------|
+|  1 | Alexander    | Perry       | m        |    31 | Albany      | NY      | 5:14   | Yes      |
+|  2 | Andrew       | Pavlou      | m        |    33 | Guilderland | NY      | 5:25   | No       |
+|  6 | Andrew       | Pavlou      | m        |    33 | Guilderland | NY      | 5:46   | No       |
+| 75 | Thomas       | Bennett     | m        |    35 | Altamont    | NY      | 9:24   | Yes      |  
 
 ## Female 40_49  
 
@@ -80,19 +80,19 @@
 
 ## Male 40_49  
 
-|    | First name   | Last name   | Gender   |   Age | City        | State    | Time   | Member   |   age_cat |
-|---:|:-------------|:------------|:---------|------:|:------------|:---------|:-------|:---------|----------:|
-|  3 | Andy         | Reed        | m        |    49 | Niskayuna   | NY       | 5:29   | Yes      |     40_49 |
-|  4 | Robert       | Irwin       | m        |    47 | Guilderland | NY       | 5:38   | Yes      |     40_49 |
-| 11 | Brian        | Northan     | m        |    45 | Guidlerland | NY       | 6:00   | Yes      |     40_49 |
-| 12 | Dallas       | DeVries     | m        |    42 | Cohoes      | NY       | 6:00   | Yes      |     40_49 |
-| 17 | Brian        | Northan     | m        |    45 | Guilderland | NY       | 6:15   | Yes      |     40_49 |
-| 30 | Brian        | Northan     | m        |    45 | Guilderland | NY       | 6:41   | Yes      |     40_49 |
-| 45 | John         | Mattox      | m        |    49 | Latham      | NY       | 7:50   | Yes      |     40_49 |
-| 49 | Kyle D.      | Ordway      | m        |    45 | Albany      | NY       | 7:56   | Yes      |     40_49 |
-| 80 | David        | Cannon      | m        |    48 | Troy        | New York | 10:07  | Yes      |     40_49 |
-| 85 | Brian        | Northan     | m        |    45 | Guidlerland | NY       | 10:44  | Yes      |     40_49 |
-| 86 | Brian        | Northan     | m        |    45 | Guidlerland | NY       | 11:34  | Yes      |     40_49 |  
+|    | First name   | Last name   | Gender   |   Age | City        | State    | Time   | Member   |
+|---:|:-------------|:------------|:---------|------:|:------------|:---------|:-------|:---------|
+|  3 | Andy         | Reed        | m        |    49 | Niskayuna   | NY       | 5:29   | Yes      |
+|  4 | Robert       | Irwin       | m        |    47 | Guilderland | NY       | 5:38   | Yes      |
+| 11 | Brian        | Northan     | m        |    45 | Guidlerland | NY       | 6:00   | Yes      |
+| 12 | Dallas       | DeVries     | m        |    42 | Cohoes      | NY       | 6:00   | Yes      |
+| 17 | Brian        | Northan     | m        |    45 | Guilderland | NY       | 6:15   | Yes      |
+| 30 | Brian        | Northan     | m        |    45 | Guilderland | NY       | 6:41   | Yes      |
+| 45 | John         | Mattox      | m        |    49 | Latham      | NY       | 7:50   | Yes      |
+| 49 | Kyle D.      | Ordway      | m        |    45 | Albany      | NY       | 7:56   | Yes      |
+| 80 | David        | Cannon      | m        |    48 | Troy        | New York | 10:07  | Yes      |
+| 85 | Brian        | Northan     | m        |    45 | Guidlerland | NY       | 10:44  | Yes      |
+| 86 | Brian        | Northan     | m        |    45 | Guidlerland | NY       | 11:34  | Yes      |  
 
 ## Female 50_59  
 
@@ -110,17 +110,17 @@
 
 ## Male 50_59  
 
-|    | First name   | Last name   | Gender   |   Age | City             | State    | Time   | Member   |   age_cat |
-|---:|:-------------|:------------|:---------|------:|:-----------------|:---------|:-------|:---------|----------:|
-|  5 | Samuel       | Mercado     | m        |    57 | Saratoga Springs | New York | 5:39   | Yes      |     50_59 |
-|  8 | Craig        | DuBois      | m        |    56 | Sprakers         | NY       | 5:56   | Yes      |     50_59 |
-| 20 | Edward       | Hampston    | m        |    52 | Voorheesville    | NY       | 6:19   | Yes      |     50_59 |
-| 21 | Scott        | Suba        | m        |    57 | Utica            | NY       | 6:20   | Yes      |     50_59 |
-| 22 | Scott        | Suba        | m        |    57 | Utica            | NY       | 6:25   | Yes      |     50_59 |
-| 25 | Edward       | Hampston    | m        |    52 | Voorheesville    | NY       | 6:29   | Yes      |     50_59 |
-| 71 | James        | Foley       | m        |    55 | Slingerlands     | nan      | 9:19   | Yes      |     50_59 |
-| 81 | Ken          | Moehringer  | m        |    55 | Clifton Park     | NY       | 10:21  | No       |     50_59 |
-| 82 | Ken          | Moehringer  | m        |    55 | Clifton Park     | New York | 10:21  | Yes      |     50_59 |  
+|    | First name   | Last name   | Gender   |   Age | City             | State    | Time   | Member   |
+|---:|:-------------|:------------|:---------|------:|:-----------------|:---------|:-------|:---------|
+|  5 | Samuel       | Mercado     | m        |    57 | Saratoga Springs | New York | 5:39   | Yes      |
+|  8 | Craig        | DuBois      | m        |    56 | Sprakers         | NY       | 5:56   | Yes      |
+| 20 | Edward       | Hampston    | m        |    52 | Voorheesville    | NY       | 6:19   | Yes      |
+| 21 | Scott        | Suba        | m        |    57 | Utica            | NY       | 6:20   | Yes      |
+| 22 | Scott        | Suba        | m        |    57 | Utica            | NY       | 6:25   | Yes      |
+| 25 | Edward       | Hampston    | m        |    52 | Voorheesville    | NY       | 6:29   | Yes      |
+| 71 | James        | Foley       | m        |    55 | Slingerlands     | nan      | 9:19   | Yes      |
+| 81 | Ken          | Moehringer  | m        |    55 | Clifton Park     | NY       | 10:21  | No       |
+| 82 | Ken          | Moehringer  | m        |    55 | Clifton Park     | New York | 10:21  | Yes      |  
 
 ## Female 60_69  
 
@@ -139,16 +139,16 @@
 
 ## Male 60_69  
 
-|    | First name   | Last name   | Gender   |   Age | City          | State         | Time     | Member   |   age_cat |
-|---:|:-------------|:------------|:---------|------:|:--------------|:--------------|:---------|:---------|----------:|
-| 33 | Joe          | Keenan      | m        |    60 | Hudson        | NY            | 6:54     | Yes      |     60_69 |
-| 43 | Richard      | Clark       | m        |    66 | Feeding Hills | Massachusetts | 7:36.9   | Yes      |     60_69 |
-| 57 | Eric         | Houghtaling | m        |    60 | Delmar        | nan           | 8:23     | Yes      |     60_69 |
-| 60 | Eric         | Houghtaling | m        |    60 | Delmar        | nan           | 8:31     | Yes      |     60_69 |
-| 83 | Ralph        | Feinstein   | m        |    66 | Scotia        | NY            | 10:26    | Yes      |     60_69 |
-| 84 | George C.    | Schwab      | m        |    69 | Schenectady   | NY            | 10:27    | Yes      |     60_69 |
-| 88 | Larry        | Peleggi     | m        |    62 | Colonie       | New York      | 13.48.57 | Yes      |     60_69 |
-| 89 | Ken          | Ebert       | m        |    69 | Ballston Lake | NY            | 13:39    | Yes      |     60_69 |  
+|    | First name   | Last name   | Gender   |   Age | City          | State         | Time     | Member   |
+|---:|:-------------|:------------|:---------|------:|:--------------|:--------------|:---------|:---------|
+| 33 | Joe          | Keenan      | m        |    60 | Hudson        | NY            | 6:54     | Yes      |
+| 43 | Richard      | Clark       | m        |    66 | Feeding Hills | Massachusetts | 7:36.9   | Yes      |
+| 57 | Eric         | Houghtaling | m        |    60 | Delmar        | nan           | 8:23     | Yes      |
+| 60 | Eric         | Houghtaling | m        |    60 | Delmar        | nan           | 8:31     | Yes      |
+| 83 | Ralph        | Feinstein   | m        |    66 | Scotia        | NY            | 10:26    | Yes      |
+| 84 | George C.    | Schwab      | m        |    69 | Schenectady   | NY            | 10:27    | Yes      |
+| 88 | Larry        | Peleggi     | m        |    62 | Colonie       | New York      | 13.48.57 | Yes      |
+| 89 | Ken          | Ebert       | m        |    69 | Ballston Lake | NY            | 13:39    | Yes      |  
 
 ## Female 70_79  
 
@@ -158,10 +158,10 @@
 
 ## Male 70_79  
 
-|    | First name   | Last name   | Gender   |   Age | City   | State   | Time   | Member   |   age_cat |
-|---:|:-------------|:------------|:---------|------:|:-------|:--------|:-------|:---------|----------:|
-| 59 | Jim          | Fiore       | m        |    72 | Latham | NY      | 8:30   | Yes      |     70_79 |
-| 67 | Jim          | Fiore       | m        |    72 | Latham | NY      | 8:49   | Yes      |     70_79 |  
+|    | First name   | Last name   | Gender   |   Age | City   | State   | Time   | Member   |
+|---:|:-------------|:------------|:---------|------:|:-------|:--------|:-------|:---------|
+| 59 | Jim          | Fiore       | m        |    72 | Latham | NY      | 8:30   | Yes      |
+| 67 | Jim          | Fiore       | m        |    72 | Latham | NY      | 8:49   | Yes      |  
 
 ## Female 80+  
 
@@ -169,7 +169,7 @@
 
 ## Male 80+  
 
-|    | First name   | Last name   | Gender   |   Age | City      | State   | Time   | Member   | age_cat   |
-|---:|:-------------|:------------|:---------|------:|:----------|:--------|:-------|:---------|:----------|
-| 70 | Jim          | Moore       | m        |    80 | Niskayuna | NY      | 9:02   | Yes      | 80+       |  
+|    | First name   | Last name   | Gender   |   Age | City      | State   | Time   | Member   |
+|---:|:-------------|:------------|:---------|------:|:----------|:--------|:-------|:---------|
+| 70 | Jim          | Moore       | m        |    80 | Niskayuna | NY      | 9:02   | Yes      |  
 
