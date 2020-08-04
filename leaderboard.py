@@ -66,7 +66,7 @@ for age in age_cats:
 '''
 temp=females[females.age_cat=='30_39']
 age_markdown=''
-age_markdown+='## Females'
+age_markdown+='## Females2\n\n'
 age_markdown+=temp.to_markdown()    
 
  
