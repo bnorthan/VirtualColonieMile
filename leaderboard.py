@@ -6,7 +6,7 @@ import pandas as pd
 sys.path.append('../scoreware-site/util/runner/')
 import runnerutils
 
-data=pd.read_csv('results/2020-08-03 2020 VIRTUAL COLONIE MILE Hudson Mohawk Road Runners Club.csv')
+data=pd.read_csv('results/2020-08-04 2020 VIRTUAL COLONIE MILE Hudson Mohawk Road Runners Club.csv')
 
 def timeToSeconds(time):
     temp=time.split('.') 
