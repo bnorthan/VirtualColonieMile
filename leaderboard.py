@@ -3,6 +3,9 @@ print('hello')
 import numpy as np
 import pandas as pd
 
+sys.path.append('../scoreware-site/util/runner/')
+import runnerutils
+
 data=pd.read_csv('results/2020-08-03 2020 VIRTUAL COLONIE MILE Hudson Mohawk Road Runners Club.csv')
 
 def timeToSeconds(time):
@@ -39,4 +42,34 @@ out_file.close()
 
 csvname='leaderboard.csv'
 data.to_csv(csvname)
+
+data.Gender=data.Gender.apply(lambda x: x.lower())
+data.Gender=data.Gender.apply(lambda x: x[0])
+
+data["age_cat"]=data.Age.apply(lambda x:runnerutils.ageToCat_0_80_10(x))
+
+age_cats=['0_9','10_19','20_29','30_39','40_49','50_59','60_69','70_79','80+']
+
+females=data[data.Gender=='f']
+males=data[data.Gender=='m']
+
+age_markdown='';
+
+for age in age_cats:
+    age_markdown+='## Female '+age+'\n'
+    temp=females[females.age_cat==age]
+    age_markdown+=temp.to_markdown()+'\n\n'
+    age_markdown+='## Male '+age+'\n'
+    temp=males[males.age_cat==age]
+    age_markdown+=temp.to_markdown()+'\n\n'
+    
+out_file=open('age.md', "w")
+out_file.write(age_markdown)
+out_file.close()
+
+
+    
+
+
+
 
