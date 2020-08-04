@@ -1,12 +1,10 @@
 ## Female 0_9  
 
-| First name   | Last name   | Gender   | Age   | City   | State   | Time   | Member   |
-|--------------|-------------|----------|-------|--------|---------|--------|----------|  
+  
 
 ## Male 0_9  
 
-| First name   | Last name   | Gender   | Age   | City   | State   | Time   | Member   | age_cat   |
-|--------------|-------------|----------|-------|--------|---------|--------|----------|-----------|  
+  
 
 ## Female 10_19  
 
@@ -47,8 +45,7 @@
 
 ## Male 20_29  
 
-| First name   | Last name   | Gender   | Age   | City   | State   | Time   | Member   | age_cat   |
-|--------------|-------------|----------|-------|--------|---------|--------|----------|-----------|  
+  
 
 ## Female 30_39  
 
@@ -168,8 +165,7 @@
 
 ## Female 80+  
 
-| First name   | Last name   | Gender   | Age   | City   | State   | Time   | Member   |
-|--------------|-------------|----------|-------|--------|---------|--------|----------|  
+  
 
 ## Male 80+  
 
