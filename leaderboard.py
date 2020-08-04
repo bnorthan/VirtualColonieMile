@@ -58,6 +58,7 @@ age_markdown='';
 for age in age_cats:
     age_markdown+='## Female '+age+'\n'
     temp=females[females.age_cat==age]
+    temp=temp.drop('age_cat',1)
     age_markdown+=temp.to_markdown()+'\n\n'
     age_markdown+='## Male '+age+'\n'
     temp=males[males.age_cat==age]
