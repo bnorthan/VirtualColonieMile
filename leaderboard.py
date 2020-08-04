@@ -33,7 +33,8 @@ data.index+=1
 
 print(data)
 
-markdown=data.to_markdown()
+markdown='[Click here for age groups](https://bnorthan.github.io/VirtualColonieMile/age)  \n\n'
+markdown+=data.to_markdown()
 
 fname='leaderboard.md'
 out_file=open(fname, "w")
