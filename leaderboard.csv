@@ -1,93 +1,101 @@
-,First name,Last name,Gender,Age,City,State,Time
-1,Alexander,Perry,Male,31,Albany,NY,5:14
-2,Andrew,Pavlou,Male,33,Guilderland,NY,5:25
-3,Andy,Reed,Male,49,Niskayuna,NY,5:29
-4,Robert,Irwin,Male,47,Guilderland,NY,5:38
-5,Samuel,Mercado,Male,57,Saratoga Springs,New York,5:39
-6,Karen,Bertasso,Female,36,albany,,5:44
-7,Andrew,Pavlou,Male,33,Guilderland,NY,5:46
-8,Kelly,Virkler,Female,36,Altamont,NY,5:49
-9,Karen,Bertasso,Female,36,albany,,5:49
-10,Craig,DuBois,M,56,Sprakers,NY,5:56
-11,Lejla,Hrelja,F,16,Schenectady,NY,5:57.1
-12,Evan,O'Connor,Male,14,SAND LAKE,New York,5:57.11
-13,Brian,Northan,M,45,Guidlerland,NY,6:00
-14,Dallas,DeVries,Male,42,Cohoes,NY,6:00
-15,Brina,Seguine,Female,30,Rensselaer,New York,6:05
-16,Emma,Lupe,F,13,Niskayuna,NY,6:05.9
-17,Kelly,Virkler,Female,36,Altamont,,6:08
-18,Eloeanor,Mastaitis,F,13,Albany,New York,6:11.1
-19,Olivia,Armenia,F,14,Niskayuna,NY,6:15.1
-20,Brian,Northan,M,45,Guilderland,NY,6:15
-21,Payton,McGeough-Gamache,F,15,Albany,New York,6:16.3
-22,Edward,Hampston,Male,52,Voorheesville,NY,6:19
-23,Scott,Suba,Male,57,Utica,NY,6:20
-24,Scott,Suba,male,57,Utica,NY,6:25
-25,Jules,Frankenfield,F,14,Albany,New York,6:26.6
-26,Addie,Keller,F,13,Loudonville,New Uork,6:28.4
-27,Edward,Hampston,Male,52,Voorheesville,NY,6:29
-28,Mia,McClaine,F,13,Albany,New York,6:34.0
-29,Lillian,Moran,F,15,Albany,New York,6:36.9
-30,Jenna,Robinson,Female,24,Troy,NY,6:37
-31,Kristen,Hislop,Female,55,Halfmoon,NY,6:40.82
-32,Brian,Northan,M,45,Guilderland,NY,6:41
-33,Laura,Kelly,Female,47,Albany,NU,6:43
-34,Ttinity,Abraham,F,15,Schenectady,New York,6:49.4
-35,Joe,Keenan,Male,60,Hudson,NY,6:54
-36,Emma,Gepfert,F,17,Albany,New York,6:57.2
-37,Ashley,Pechulis,F,14,Niskayuna,New York,6:59.8
-38,Gianna,Pepe,F,11,Schenectady,NY,6:59.6
-39,Jen,Shafer,F,14,Schenectady,New York,6:59.9
-40,Liz,Renko,F,16,Albany,New York,7:00.4
-41,Izzy,Trimarchi,F,12,Albany,New York,7:01.1
-42,Liliana,Burbige,F,12,Schenectady,New York,7:04.3
-43,Kelly,Virkler,Female,36,Altamont,NY,7:17
-44,Oliver,Hooper,M,10,Glenville,Ny,7:25
-45,Richard,Clark,Male,66,Feeding Hills,Massachusetts,7:36.9
-46,Kathleen,Beeman,f,59,Easley,SC,7:48
-47,John,Mattox,male,49,Latham,NY,7:50
-48,Melissa,Kaszuba,Female,33,Rexford,NY,7:51
-49,Melissa,Kaszuba,Female,33,Rexford,NY,7:53
-50,Amber,Hooper,F,35,Glenville,Ny,7:53
-51,Kyle D.,Ordway,Male,45,Albany,NY,7:56
-52,Anna,Hampston,Female,15,Voorheesville,NY,8:12
-53,Erika,Oesterle,female,68,Stamford,NY,8:12
-54,Martha C.,DeGrazia,Female,69,Slingerlands,New York,8:12
-55,Erika,Oesterle,female,68,Stamford,NY,8:14
-56,Sarah,Pulcher,Female,41,Selkirk,,8:17
-57,Erika,Oesterle,female,68,Stamford,NY,8:18
-58,Erika,Oesterle,female,68,Stamford,NY,8:19
-59,Erika,Oesterle,female,68,Stamford,NY,8:20
-60,Eric,Houghtaling,Male,60,Delmar,,8:23
-61,Eleyna,Rivas,Female,15,Gloversville,New York,8:28
-62,Jim,Fiore,M,72,Latham,NY,8:30
-63,Erika,Oesterle,female,68,Stamford,NY,8:31
-64,Eric,Houghtaling,Male,60,Delmar,,8:31
-65,Erika,Oesterle,female,68,Stamford,NY,8:34
-66,Kelly,Virkler,Female,36,Altamont,,8:36
-67,Joanna,Tremper,F,50,E. Chatham,,8:36
-68,Erika,Oesterle,female,68,Stamford,NY,8:38
-69,Erika,Oesterle,Female,68,Stamford,NY,8:44
-70,Jim,Fiore,m,72,Latham,NY,8:49
-71,Lois,Shoemaker,F,57,Scotia,NY,8:56
-72,Katherine,Ambrosio,Female,70,Delmar,New York,9:00
-73,Jim,Moore,Male,80,Niskayuna,NY,9:02
-74,Erika,Oesterle,female,68,Stamford,NY,9:19
-75,James,Foley,Male,55,Slingerlands,,9:19
-76,Michele,Celello,Female,53,East Greenbush,NY,9:20
-77,Thomas,Bennett,Male,35,Altamont,NY,9:24
-78,Siobhan,Connally,F,52,Kinderhook,NY,9:24
-79,Pilar,Arthur-Snead,F,48,Albany,New York,9:31
-80,Pilar,Arthur,F,48,Albany,NY,9:41
-81,Michele,Celello,F,53,East Greenbush,NY,9:50
-82,Michele,Celello,Female,53,East Greenbush,NY,9:55
-83,David,Cannon,Male,48,Troy,New York,10:07
-84,Ken,Moehringer,M,55,Clifton Park,New York,10:21
-85,Ken,Moehringer,M,55,Clifton Park,NY,10:21
-86,Ralph,Feinstein,Male,66,Scotia,NY,10:26
-87,George C.,Schwab,Male,69,Schenectady,NY,10:27
-88,Brian,Northan,Male,45,Guidlerland,NY,10:44
-89,Brian,Northan,Male,45,Guidlerland,NY,11:34
-90,Sharon,Lagace,Female,50,Glenville,NY,12:00
-91,Larry,Peleggi,Male,62,Colonie,New York,13.48.57
-92,Ken,Ebert,Male,69,Ballston Lake,NY,13:39
+,First name,Last name,Gender,Age,City,State,Time,Member,age_grade
+1,Alexander,Perry,m,31,Albany,NY,5:14,Yes,0.7245859872611464
+2,Andrew,Pavlou,m,33,Guilderland,NY,5:25,No,0.7041230769230769
+3,Andy,Reed,m,49,Niskayuna,NY,5:29,Yes,0.7767173252279634
+4,Frank,Woods,m,59,Delmar,NY,5:29,No,0.8421884498480244
+5,Robert,Irwin,m,47,Guilderland,NY,5:38,Yes,0.7444970414201183
+6,Samuel,Mercado,m,57,Saratoga Springs,New York,5:39,Yes,0.8038938053097344
+7,Benjamin,Heller,m,31,Troy,New York,5:41,Yes,0.6672140762463342
+8,Karen,Bertasso,f,36,albany,,5:44,Yes,0.7424999999999999
+9,Andrew,Pavlou,m,33,Guilderland,NY,5:46,No,0.6613872832369941
+10,Kelly,Virkler,f,36,Altamont,NY,5:49,Yes,0.7318624641833811
+11,Karen,Bertasso,f,36,albany,,5:49,Yes,0.7318624641833811
+12,Craig,DuBois,m,56,Sprakers,NY,5:56,Yes,0.7591011235955055
+13,Evan,O'Connor,m,14,SAND LAKE,New York,5:57.11,No,0.6705882352941177
+14,Lejla,Hrelja,f,16,Schenectady,NY,5:57.1,No,0.7321008403361345
+15,Brian,Northan,m,45,Guidlerland,NY,6:00,Yes,0.6885
+16,Dallas,DeVries,m,42,Cohoes,NY,6:00,Yes,0.6733333333333333
+17,Brina,Seguine,f,30,Rensselaer,New York,6:05,Yes,0.6932054794520548
+18,Emma,Lupe,f,13,Niskayuna,NY,6:05.9,No,0.7556712328767123
+19,Joshua,Katzman,m,44,Clifton Park,NY,6:06.9,Yes,0.6721311475409836
+20,Martin,Gordinier,m,50,Delmar,NY,6:06,Yes,0.7037704918032787
+21,Kelly,Virkler,f,36,Altamont,,6:08,Yes,0.6940760869565217
+22,Eloeanor,Mastaitis,f,13,Albany,New York,6:11.1,No,0.7434501347708895
+23,Olivia,Armenia,f,14,Niskayuna,NY,6:15.1,No,0.72128
+24,Brian,Northan,m,45,Guilderland,NY,6:15,Yes,0.66096
+25,Payton,McGeough-Gamache,f,15,Albany,New York,6:16.3,No,0.7067553191489361
+26,Edward,Hampston,m,52,Voorheesville,NY,6:19,Yes,0.6903957783641161
+27,Scott,Suba,m,57,Utica,NY,6:20,Yes,0.7171578947368421
+28,Scott,Suba,m,57,Utica,NY,6:25,Yes,0.7078441558441558
+29,Jules,Frankenfield,f,14,Albany,New York,6:26.6,No,0.7007253886010363
+30,Addie,Keller,f,13,Loudonville,New Uork,6:28.4,No,0.7108762886597938
+31,Edward,Hampston,m,52,Voorheesville,NY,6:29,Yes,0.6726478149100258
+32,Mia,McClaine,f,13,Albany,New York,6:34.0,No,0.7000507614213198
+33,Lillian,Moran,f,15,Albany,New York,6:36.9,No,0.6710606060606059
+34,Jenna,Robinson,f,24,Troy,NY,6:37,Yes,0.6373299748110831
+35,Kristen,Hislop,f,55,Halfmoon,NY,6:40.82,Yes,0.7485
+36,Brian,Northan,m,45,Guilderland,NY,6:41,Yes,0.6181047381546135
+37,Laura,Kelly,f,47,Albany,NU,6:43,Yes,0.6805459057071962
+38,Ttinity,Abraham,f,15,Schenectady,New York,6:49.4,No,0.6497310513447432
+39,Joe,Keenan,m,60,Hudson,NY,6:54,Yes,0.6749275362318841
+40,Emma,Gepfert,f,17,Albany,New York,6:57.2,No,0.6165467625899281
+41,Gianna,Pepe,f,11,Schenectady,NY,6:59.6,No,0.6886396181384249
+42,Jen,Shafer,f,14,Schenectady,New York,6:59.9,No,0.6455369928400955
+43,Ashley,Pechulis,f,14,Niskayuna,New York,6:59.8,No,0.6455369928400955
+44,Liz,Renko,f,16,Albany,New York,7:00.4,No,0.6222857142857143
+45,Izzy,Trimarchi,f,12,Albany,New York,7:01.1,No,0.6694061757719715
+46,Liliana,Burbige,f,12,Schenectady,New York,7:04.3,No,0.6646698113207548
+47,Sarah,Pulcher,f,41,Selkirk,,7:14,Yes,0.6023502304147466
+48,Oliver,Hooper,m,10,Glenville,NY,7:15,Yes,0.624
+49,Kelly,Virkler,f,36,Altamont,NY,7:17,Yes,0.5844851258581235
+50,Oliver,Hooper,m,10,Glenville,Ny,7:25,Yes,0.6099775280898876
+51,Amber,Hooper,f,35,Glenville,NY,7:26,Yes,0.5709417040358744
+52,Richard,Clark,m,66,Feeding Hills,Massachusetts,7:36.9,Yes,0.6457894736842106
+53,Kathleen,Beeman,f,59,Easley,SC,7:48,Yes,0.6705128205128206
+54,John,Mattox,m,49,Latham,NY,7:50,Yes,0.5437021276595744
+55,Melissa,Kaszuba,f,33,Rexford,NY,7:51,Yes,0.538343949044586
+56,Amber,Hooper,f,35,Glenville,Ny,7:53,Yes,0.5383509513742072
+57,Melissa,Kaszuba,f,33,Rexford,NY,7:53,Yes,0.5360676532769556
+58,Kyle D.,Ordway,m,45,Albany,NY,7:56,Yes,0.5207142857142858
+59,Erika,Oesterle,f,68,Stamford,NY,8:12,Yes,0.7152439024390245
+60,Anna,Hampston,f,15,Voorheesville,NY,8:12,No,0.5401219512195121
+61,Martha C.,DeGrazia,f,69,Slingerlands,New York,8:12,Yes,0.7251219512195123
+62,Erika,Oesterle,f,68,Stamford,NY,8:14,Yes,0.7123481781376519
+63,Sarah,Pulcher,f,41,Selkirk,,8:17,Yes,0.5259959758551308
+64,Erika,Oesterle,f,68,Stamford,NY,8:18,Yes,0.7066265060240965
+65,Erika,Oesterle,f,68,Stamford,NY,8:19,Yes,0.7052104208416834
+66,Erika,Oesterle,f,68,Stamford,NY,8:20,Yes,0.7038000000000001
+67,Eric,Houghtaling,m,60,Delmar,,8:23,Yes,0.555506958250497
+68,Eleyna,Rivas,f,15,Gloversville,New York,8:28,No,0.5231102362204724
+69,Jim,Fiore,m,72,Latham,NY,8:30,Yes,0.6165882352941178
+70,Erika,Oesterle,f,68,Stamford,NY,8:31,Yes,0.6886497064579257
+71,Eric,Houghtaling,m,60,Delmar,,8:31,Yes,0.5468101761252446
+72,Erika,Oesterle,f,68,Stamford,NY,8:34,Yes,0.6846303501945527
+73,Joanna,Tremper,f,50,E. Chatham,,8:36,Yes,0.5486046511627907
+74,Kelly,Virkler,f,36,Altamont,,8:36,Yes,0.495
+75,Erika,Oesterle,f,68,Stamford,NY,8:38,Yes,0.6793436293436295
+76,Erika,Oesterle,f,68,Stamford,NY,8:44,Yes,0.6715648854961833
+77,Jim,Fiore,m,72,Latham,NY,8:49,Yes,0.5944423440453687
+78,Lois,Shoemaker,f,57,Scotia,NY,8:56,Yes,0.5716791044776119
+79,Katherine,Ambrosio,f,70,Delmar,New York,9:00,Yes,0.6697777777777777
+80,Jim,Moore,m,80,Niskayuna,NY,9:02,Yes,0.672509225092251
+81,James,Foley,m,55,Slingerlands,,9:19,Yes,0.47957066189624326
+82,Erika,Oesterle,f,68,Stamford,NY,9:19,Yes,0.6295169946332738
+83,Michele,Celello,f,53,East Greenbush,NY,9:20,Yes,0.5226428571428572
+84,Thomas,Bennett,m,35,Altamont,NY,9:24,Yes,0.4093617021276596
+85,Siobhan,Connally,f,52,Kinderhook,NY,9:24,Yes,0.5130851063829787
+86,Pilar,Arthur-Snead,f,48,Albany,New York,9:31,Yes,0.4852539404553416
+87,Pilar,Arthur,f,48,Albany,NY,9:41,Yes,0.47690189328743554
+88,Michele,Celello,f,53,East Greenbush,NY,9:50,Yes,0.4960677966101695
+89,Michele,Celello,f,53,East Greenbush,NY,9:55,Yes,0.49189915966386555
+90,David,Cannon,m,48,Troy,New York,10:07,Yes,0.41782537067545306
+91,Ken,Moehringer,m,55,Clifton Park,NY,10:21,No,0.43169082125603864
+92,Ken,Moehringer,m,55,Clifton Park,New York,10:21,Yes,0.43169082125603864
+93,Ralph,Feinstein,m,66,Scotia,NY,10:26,Yes,0.4704153354632588
+94,George C.,Schwab,m,69,Schenectady,NY,10:27,Yes,0.4833492822966507
+95,Brian,Northan,m,45,Guidlerland,NY,10:44,Yes,0.3848757763975155
+96,Brian,Northan,m,45,Guidlerland,NY,11:34,Yes,0.35714697406340057
+97,Sharon,Lagace,f,50,Glenville,NY,12:00,Yes,0.39316666666666666
+98,Larry,Peleggi,m,62,Colonie,New York,13.48.57,Yes,0.3644615384615385
+99,Ray,Lee,m,78,Clifton Park,NY,13:09,Yes,0.44182509505703416
+100,Ken,Ebert,m,69,Ballston Lake,NY,13:39,Yes,0.37003663003663007
