@@ -39,6 +39,8 @@ data=data.sort_values(by='seconds')
 data.Gender=data.Gender.apply(lambda x: x.lower())
 data.Gender=data.Gender.apply(lambda x: x[0])
 data['age_grade']=data.apply(lambda x:ageGrade(x.Age, x.Gender, x.seconds),axis=1)
+data.age_grade=data.age_grade*100
+data.age_grade=data.age_grade.round(2)
 
 data=data.drop('seconds',axis=1)
 
