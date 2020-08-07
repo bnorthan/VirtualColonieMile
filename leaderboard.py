@@ -65,6 +65,10 @@ data.to_csv(csvname)
 sort_by_age_grade=data.sort_values(by='age_grade',ascending=False)
 fname='agegrade.md'
 out_file=open(fname, "w")
+
+sort_by_age_grade=sort_by_age_grade.reset_index(drop=True)
+sort_by_age_grade.index+=1
+
 out_file.write(sort_by_age_grade.to_markdown())
 out_file.close()
 
