@@ -5,7 +5,7 @@ import pandas as pd
 sys.path.append('..//scoreware-site//util//runner//')
 import runnerutils
 
-data=pd.read_csv('results/2020-08-07 2020 VIRTUAL COLONIE MILE Hudson Mohawk Road Runners Club.csv')
+data=pd.read_csv('results/2020-08-08 2020 VIRTUAL COLONIE MILE Hudson Mohawk Road Runners Club.csv')
 age_grader=pd.read_csv('agegrade.csv')
 
 male_best=age_grader['male'].max()*60
