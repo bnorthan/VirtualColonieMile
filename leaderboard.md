@@ -12,37 +12,37 @@
 |   6 | Andy         | Reed             | m        |    49 | Niskayuna        | NY            | 5:29     | Yes      |       77.67 |
 |   7 | Ryan         | McCann           | m        |    45 | Albany           | NY            | 5:31     | Yes      |       74.88 |
 |   8 | Robert       | Irwin            | m        |    47 | Guilderland      | NY            | 5:38     | Yes      |       74.45 |
-|   9 | Samuel       | Mercado          | m        |    57 | Saratoga Springs | New York      | 5:39     | Yes      |       80.39 |
-|  10 | Frank        | Woods            | m        |    59 | Delmar           | NY            | 5:39     | Yes      |       81.73 |
+|   9 | Frank        | Woods            | m        |    59 | Delmar           | NY            | 5:39     | Yes      |       81.73 |
+|  10 | Samuel       | Mercado          | m        |    57 | Saratoga Springs | New York      | 5:39     | Yes      |       80.39 |
 |  11 | Benjamin     | Heller           | m        |    31 | Troy             | New York      | 5:41     | Yes      |       66.72 |
 |  12 | Ian          | Weinstock        | m        |    13 | Colonie          | Ny            | 5:43     | No       |       71.46 |
 |  13 | Karen        | Bertasso         | f        |    36 | albany           | nan           | 5:44     | Yes      |       74.25 |
 |  14 | Brina        | Seguine          | f        |    30 | Rensselaer       | New York      | 5:45     | Yes      |       73.34 |
 |  15 | Andrew       | Pavlou           | m        |    33 | Guilderland      | NY            | 5:46     | No       |       66.14 |
-|  16 | Liwei        | Hao              | m        |    38 | Niskayuna        | nan           | 5:47     | Yes      |       67.85 |
-|  17 | Craig        | DuBois           | m        |    56 | Sprakers         | NY            | 5:47     | Yes      |       77.88 |
-|  18 | William      | Petramale        | m        |    15 | Colonie          | NY            | 5:47     | Yes      |       67.71 |
+|  16 | Craig        | DuBois           | m        |    56 | Sprakers         | NY            | 5:47     | Yes      |       77.88 |
+|  17 | William      | Petramale        | m        |    15 | Colonie          | NY            | 5:47     | Yes      |       67.71 |
+|  18 | Liwei        | Hao              | m        |    38 | Niskayuna        | nan           | 5:47     | Yes      |       67.85 |
 |  19 | Craig        | DuBois           | m        |    56 | Sprakers         | NY            | 5:48     | Yes      |       77.66 |
 |  20 | Kelly        | Virkler          | f        |    36 | Altamont         | NY            | 5:49     | Yes      |       73.19 |
 |  21 | Karen        | Bertasso         | f        |    36 | albany           | nan           | 5:49     | Yes      |       73.19 |
 |  22 | Anthony      | Pasqualino       | m        |    30 | Albany           | NY            | 5:50     | Yes      |       64.9  |
 |  23 | Chris        | Pellegrini       | m        |    16 | Loudonville      | NY            | 5:53.0   | No       |       65.61 |
-|  24 | Rick         | Cancelino        | m        |    43 | Albany           | NY            | 5:56     | Yes      |       68.6  |
-|  25 | Craig        | DuBois           | m        |    56 | Sprakers         | NY            | 5:56     | Yes      |       75.91 |
-|  26 | Evan         | O'Connor         | m        |    14 | SAND LAKE        | New York      | 5:57.04  | No       |       67.06 |
+|  24 | Craig        | DuBois           | m        |    56 | Sprakers         | NY            | 5:56     | Yes      |       75.91 |
+|  25 | Rick         | Cancelino        | m        |    43 | Albany           | NY            | 5:56     | Yes      |       68.6  |
+|  26 | William      | Molesky          | m        |    16 | Albany           | NY            | 5:57     | No       |       64.87 |
 |  27 | Lejla        | Hrelja           | f        |    16 | Schenectady      | NY            | 5:57.1   | No       |       73.21 |
-|  28 | William      | Molesky          | m        |    16 | Albany           | NY            | 5:57     | No       |       64.87 |
+|  28 | Evan         | O'Connor         | m        |    14 | SAND LAKE        | New York      | 5:57.04  | No       |       67.06 |
 |  29 | Evan         | O'Connor         | m        |    14 | SAND LAKE        | New York      | 5:57.11  | No       |       67.06 |
 |  30 | Dallas       | DeVries          | m        |    42 | Cohoes           | NY            | 6:00     | Yes      |       67.33 |
 |  31 | Brian        | Northan          | m        |    45 | Guidlerland      | NY            | 6:00     | Yes      |       68.85 |
-|  32 | Brina        | Seguine          | f        |    30 | Rensselaer       | New York      | 6:05     | Yes      |       69.32 |
-|  33 | Emma         | Lupe             | f        |    13 | Niskayuna        | NY            | 6:05.9   | No       |       75.57 |
-|  34 | Martin       | Gordinier        | m        |    50 | Delmar           | NY            | 6:06     | Yes      |       70.38 |
-|  35 | Joshua       | Katzman          | m        |    44 | Clifton Park     | NY            | 6:06.9   | Yes      |       67.21 |
+|  32 | Emma         | Lupe             | f        |    13 | Niskayuna        | NY            | 6:05.9   | No       |       75.57 |
+|  33 | Brina        | Seguine          | f        |    30 | Rensselaer       | New York      | 6:05     | Yes      |       69.32 |
+|  34 | Joshua       | Katzman          | m        |    44 | Clifton Park     | NY            | 6:06.9   | Yes      |       67.21 |
+|  35 | Martin       | Gordinier        | m        |    50 | Delmar           | NY            | 6:06     | Yes      |       70.38 |
 |  36 | Kelly        | Virkler          | f        |    36 | Altamont         | nan           | 6:08     | Yes      |       69.41 |
 |  37 | Eloeanor     | Mastaitis        | f        |    13 | Albany           | New York      | 6:11.1   | No       |       74.35 |
-|  38 | Olivia       | Armenia          | f        |    14 | Niskayuna        | NY            | 6:15.1   | No       |       72.13 |
-|  39 | Brian        | Northan          | m        |    45 | Guilderland      | NY            | 6:15     | Yes      |       66.1  |
+|  38 | Brian        | Northan          | m        |    45 | Guilderland      | NY            | 6:15     | Yes      |       66.1  |
+|  39 | Olivia       | Armenia          | f        |    14 | Niskayuna        | NY            | 6:15.1   | No       |       72.13 |
 |  40 | Payton       | McGeough-Gamache | f        |    15 | Albany           | New York      | 6:16.3   | No       |       70.68 |
 |  41 | Edward       | Hampston         | m        |    52 | Voorheesville    | NY            | 6:19     | Yes      |       69.04 |
 |  42 | Scott        | Suba             | m        |    57 | Utica            | NY            | 6:20     | Yes      |       71.72 |
@@ -62,19 +62,19 @@
 |  56 | Ttinity      | Abraham          | f        |    15 | Schenectady      | New York      | 6:49.4   | No       |       64.97 |
 |  57 | Chris        | O'Connor         | m        |    40 | SAND LAKE        | New York      | 6:50     | No       |       58.26 |
 |  58 | Joe          | Keenan           | m        |    60 | Hudson           | NY            | 6:54     | Yes      |       67.49 |
-|  59 | Julianne     | Scanlan          | f        |    43 | Schoharie        | NY            | 6:57     | Yes      |       63.54 |
-|  60 | Emma         | Gepfert          | f        |    17 | Albany           | New York      | 6:57.2   | No       |       61.65 |
-|  61 | Jen          | Shafer           | f        |    14 | Schenectady      | New York      | 6:59.9   | No       |       64.55 |
+|  59 | Emma         | Gepfert          | f        |    17 | Albany           | New York      | 6:57.2   | No       |       61.65 |
+|  60 | Julianne     | Scanlan          | f        |    43 | Schoharie        | NY            | 6:57     | Yes      |       63.54 |
+|  61 | Gianna       | Pepe             | f        |    11 | Schenectady      | NY            | 6:59.6   | No       |       68.86 |
 |  62 | Ashley       | Pechulis         | f        |    14 | Niskayuna        | New York      | 6:59.8   | No       |       64.55 |
-|  63 | Gianna       | Pepe             | f        |    11 | Schenectady      | NY            | 6:59.6   | No       |       68.86 |
+|  63 | Jen          | Shafer           | f        |    14 | Schenectady      | New York      | 6:59.9   | No       |       64.55 |
 |  64 | Liz          | Renko            | f        |    16 | Albany           | New York      | 7:00.4   | No       |       62.23 |
-|  65 | Izzy         | Trimarchi        | f        |    12 | Albany           | New York      | 7:01.1   | No       |       66.94 |
-|  66 | Steve        | Hanagan          | m        |    53 | Ballston Lake    | NY            | 7:01     | Yes      |       62.65 |
+|  65 | Steve        | Hanagan          | m        |    53 | Ballston Lake    | NY            | 7:01     | Yes      |       62.65 |
+|  66 | Izzy         | Trimarchi        | f        |    12 | Albany           | New York      | 7:01.1   | No       |       66.94 |
 |  67 | Liliana      | Burbige          | f        |    12 | Schenectady      | New York      | 7:04.3   | No       |       66.47 |
 |  68 | Sarah        | Pulcher          | f        |    41 | Selkirk          | nan           | 7:14     | Yes      |       60.24 |
-|  69 | Paul         | Bennett          | m        |    69 | LATHAM           | NY            | 7:15     | Yes      |       69.67 |
-|  70 | Oliver       | Hooper           | m        |    10 | Glenville        | NY            | 7:15     | Yes      |       62.4  |
-|  71 | Paul         | Bennett          | e        |    69 | LATHAM           | NY            | 7:15     | Yes      |       69.67 |
+|  69 | Paul         | Bennett          | e        |    69 | LATHAM           | NY            | 7:15     | Yes      |       69.67 |
+|  70 | Paul         | Bennett          | m        |    69 | LATHAM           | NY            | 7:15     | Yes      |       69.67 |
+|  71 | Oliver       | Hooper           | m        |    10 | Glenville        | NY            | 7:15     | Yes      |       62.4  |
 |  72 | Daniel       | Langer           | m        |    15 | albany           | new york      | 7:16     | No       |       53.89 |
 |  73 | Kelly        | Virkler          | f        |    36 | Altamont         | NY            | 7:17     | Yes      |       58.45 |
 |  74 | Nathan       | Schoonover       | m        |     9 | Colonie          | nan           | 7:21     | Yes      |       64.49 |
@@ -85,16 +85,16 @@
 |  79 | Kathleen     | Beeman           | f        |    59 | Easley           | SC            | 7:48     | Yes      |       67.05 |
 |  80 | John         | Mattox           | m        |    49 | Latham           | NY            | 7:50     | Yes      |       54.37 |
 |  81 | Melissa      | Kaszuba          | f        |    33 | Rexford          | NY            | 7:51     | Yes      |       53.83 |
-|  82 | Melissa      | Kaszuba          | f        |    33 | Rexford          | NY            | 7:53     | Yes      |       53.61 |
-|  83 | Amber        | Hooper           | f        |    35 | Glenville        | Ny            | 7:53     | Yes      |       53.84 |
+|  82 | Amber        | Hooper           | f        |    35 | Glenville        | Ny            | 7:53     | Yes      |       53.84 |
+|  83 | Melissa      | Kaszuba          | f        |    33 | Rexford          | NY            | 7:53     | Yes      |       53.61 |
 |  84 | Kyle D.      | Ordway           | m        |    45 | Albany           | NY            | 7:56     | Yes      |       52.07 |
 |  85 | David        | Roy              | m        |    65 | Schoharie        | NY            | 7:58     | Yes      |       61.05 |
-|  86 | Erika        | Oesterle         | f        |    69 | Stamford         | NY            | 8:10     | Yes      |       72.81 |
-|  87 | Erika        | Oesterle         | f        |    69 | Stamford         | NY            | 8:10.74  | Yes      |       72.81 |
-|  88 | Erika        | Oesterle         | f        |    68 | Stamford         | NY            | 8:12     | Yes      |       71.52 |
-|  89 | Anna         | Hampston         | f        |    15 | Voorheesville    | NY            | 8:12     | No       |       54.01 |
-|  90 | Karen        | Dott             | f        |    64 | Colonie          | NY            | 8:12.7   | Yes      |       67.87 |
-|  91 | Martha C.    | DeGrazia         | f        |    69 | Slingerlands     | New York      | 8:12     | Yes      |       72.51 |
+|  86 | Erika        | Oesterle         | f        |    69 | Stamford         | NY            | 8:10.74  | Yes      |       72.81 |
+|  87 | Erika        | Oesterle         | f        |    69 | Stamford         | NY            | 8:10     | Yes      |       72.81 |
+|  88 | Karen        | Dott             | f        |    64 | Colonie          | NY            | 8:12.7   | Yes      |       67.87 |
+|  89 | Erika        | Oesterle         | f        |    68 | Stamford         | NY            | 8:12     | Yes      |       71.52 |
+|  90 | Martha C.    | DeGrazia         | f        |    69 | Slingerlands     | New York      | 8:12     | Yes      |       72.51 |
+|  91 | Anna         | Hampston         | f        |    15 | Voorheesville    | NY            | 8:12     | No       |       54.01 |
 |  92 | Erika        | Oesterle         | f        |    68 | Stamford         | NY            | 8:14     | Yes      |       71.23 |
 |  93 | Sarah        | Pulcher          | f        |    41 | Selkirk          | nan           | 8:17     | Yes      |       52.6  |
 |  94 | Erika        | Oesterle         | f        |    68 | Stamford         | NY            | 8:18     | Yes      |       70.66 |
@@ -104,8 +104,8 @@
 |  98 | Eric         | Houghtaling      | m        |    60 | Delmar           | nan           | 8:23     | Yes      |       55.55 |
 |  99 | Eleyna       | Rivas            | f        |    15 | Gloversville     | New York      | 8:28     | No       |       52.31 |
 | 100 | Jim          | Fiore            | m        |    72 | Latham           | NY            | 8:30     | Yes      |       61.66 |
-| 101 | Eric         | Houghtaling      | m        |    60 | Delmar           | nan           | 8:31     | Yes      |       54.68 |
-| 102 | Erika        | Oesterle         | f        |    68 | Stamford         | NY            | 8:31     | Yes      |       68.86 |
+| 101 | Erika        | Oesterle         | f        |    68 | Stamford         | NY            | 8:31     | Yes      |       68.86 |
+| 102 | Eric         | Houghtaling      | m        |    60 | Delmar           | nan           | 8:31     | Yes      |       54.68 |
 | 103 | Erika        | Oesterle         | f        |    68 | Stamford         | NY            | 8:34     | Yes      |       68.46 |
 | 104 | Kelly        | Virkler          | f        |    36 | Altamont         | nan           | 8:36     | Yes      |       49.5  |
 | 105 | Joanna       | Tremper          | f        |    50 | E. Chatham       | nan           | 8:36     | Yes      |       54.86 |
@@ -130,16 +130,17 @@
 | 124 | Kate         | O'Connor         | m        |     9 | SAND LAKE        | New York      | 9:59     | No       |       47.48 |
 | 125 | David        | Cannon           | m        |    48 | Troy             | New York      | 10:07    | Yes      |       41.78 |
 | 126 | Edwin        | Litts            | m        |    70 | Schenectady      | New York      | 10:08    | Yes      |       50.42 |
-| 127 | Ken          | Moehringer       | m        |    55 | Clifton Park     | NY            | 10:21    | No       |       43.17 |
-| 128 | Ken          | Moehringer       | m        |    55 | Clifton Park     | New York      | 10:21    | Yes      |       43.17 |
-| 129 | Ralph        | Feinstein        | m        |    66 | Scotia           | NY            | 10:26    | Yes      |       47.04 |
-| 130 | George C.    | Schwab           | m        |    69 | Schenectady      | NY            | 10:27    | Yes      |       48.33 |
-| 131 | Ryan         | O'Connor         | m        |     7 | SAND LAKE        | New York      | 10:29    | No       |       50.81 |
-| 132 | Brian        | Northan          | m        |    45 | Guidlerland      | NY            | 10:44    | Yes      |       38.49 |
-| 133 | Brian        | Northan          | m        |    45 | Guidlerland      | NY            | 11:34    | Yes      |       35.71 |
-| 134 | Sharon       | Lagace           | f        |    50 | Glenville        | NY            | 12:00    | Yes      |       39.32 |
-| 135 | Loretta      | Ebert            | f        |    73 | Ballston Lake    | New York      | 12:24    | Yes      |       50.73 |
-| 136 | Michelle     | Ching            | f        |    59 | Clifton Park     | NY            | 12:29    | Yes      |       41.9  |
-| 137 | Ray          | Lee              | m        |    78 | Clifton Park     | NY            | 13:09    | Yes      |       44.18 |
-| 138 | Ken          | Ebert            | m        |    69 | Ballston Lake    | NY            | 13:39    | Yes      |       37    |
-| 139 | Larry        | Peleggi          | m        |    62 | Colonie          | New York      | 13:48.57 | Yes      |       34.33 |
+| 127 | Ken          | Moehringer       | m        |    55 | Clifton Park     | New York      | 10:21    | Yes      |       43.17 |
+| 128 | Ken          | Moehringer       | m        |    55 | Clifton Park     | NY            | 10:21    | No       |       43.17 |
+| 129 | Steve        | Mastaitis        | m        |    66 | _                | NY            | 10:25    | No       |       47.12 |
+| 130 | Ralph        | Feinstein        | m        |    66 | Scotia           | NY            | 10:26    | Yes      |       47.04 |
+| 131 | George C.    | Schwab           | m        |    69 | Schenectady      | NY            | 10:27    | Yes      |       48.33 |
+| 132 | Ryan         | O'Connor         | m        |     7 | SAND LAKE        | New York      | 10:29    | No       |       50.81 |
+| 133 | Brian        | Northan          | m        |    45 | Guidlerland      | NY            | 10:44    | Yes      |       38.49 |
+| 134 | Brian        | Northan          | m        |    45 | Guidlerland      | NY            | 11:34    | Yes      |       35.71 |
+| 135 | Sharon       | Lagace           | f        |    50 | Glenville        | NY            | 12:00    | Yes      |       39.32 |
+| 136 | Loretta      | Ebert            | f        |    73 | Ballston Lake    | New York      | 12:24    | Yes      |       50.73 |
+| 137 | Michelle     | Ching            | f        |    59 | Clifton Park     | NY            | 12:29    | Yes      |       41.9  |
+| 138 | Ray          | Lee              | m        |    78 | Clifton Park     | NY            | 13:09    | Yes      |       44.18 |
+| 139 | Ken          | Ebert            | m        |    69 | Ballston Lake    | NY            | 13:39    | Yes      |       37    |
+| 140 | Larry        | Peleggi          | m        |    62 | Colonie          | New York      | 13:48.57 | Yes      |       34.33 |
